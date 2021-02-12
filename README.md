@@ -15,16 +15,15 @@ sdfsdfsdfdsf
 <!--Nested list with links-->
 <ol>
   <li><a href = "https://pages.github.com/">Article 1</a></li>
-    <ol>
+    <ul>
       <li></li>
       <li></li>
-    </ol>
-  <li>second item  <!-- closing </li> tag not here! -->
-    <li><a href = "https://pages.github.com/">Article 1</a></li>
-    <ol>
+    </ul>
+  <li><a href = "https://pages.github.com/">Article 2</a></li>
+    <ul>
       <li></li>
       <li></li>
-    </ol>
+    </ul>
   </li>            <!-- Here's the closing </li> tag -->
   <li>third item</li>
 </ol>
