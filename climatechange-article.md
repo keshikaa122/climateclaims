@@ -54,6 +54,7 @@ nav_order: 1
 Text here
 
 ![Image](http://www.drroyspencer.com/wp-content/uploads/FoS-Canada-temperature-blog-post-Fig01.jpg)
+```Figure 1: Caption here```
 
 ### References
 Roy, S., 2021. Canada is Warming at Only 1/2 the Rate of Climate Model Simulations. [online] Roy Spencer, Ph. D. Available at: <http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/> [Accessed 12 Feb. 2021].
