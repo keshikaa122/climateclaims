@@ -4,10 +4,11 @@ layout: default
 nav_order: 1
 ---
   
-# Climate claims Part 2
+# Climate Claims Assignment Part 2
 **Name**: Keshikaa Suthaaharan  
 **Course**: ISCI 3A12  
 **Instructor**: Jay Brodeur   
+**TA**: Allie
 **Date**: February 14, 2021   
 
 ## **Top 5 List of Articles**
