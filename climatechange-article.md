@@ -5,6 +5,11 @@ nav_order: 1
 ---
   
 # Climate claims Part 2
+Name: Keshikaa Suthaaharan  
+Course: ISCI 3A12  
+Instructor: Jay Brodeur   
+Date: February 14, 2021   
+
 sdfsdfsdfdsf
 <!-- Bolded text -->
 **This text will be bold**
@@ -12,7 +17,7 @@ sdfsdfsdfdsf
 <!--Italicized text-->
 *This text will be italic*
 
-## **Top 5 Article List**
+## **Top 5 List of Articles**
 <!--Nested list with links-->
 <ol>
   <li><a href = "http://www.drroyspencer.com/">Canada is Warming at Only 1/2 the Rate of Climate Model Simulations</a></li>
