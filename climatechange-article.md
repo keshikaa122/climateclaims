@@ -61,10 +61,10 @@ Numerous studies have evaluated the CMIP5 models in comparison to observed data.
 
 
 ### References
-  Bush, E. and Lemmen, D.S., 2019. Canada’s Climate Change Report. [online] Available at: <https://www.deslibris.ca/ID/10100227> [Accessed 12 Feb. 2021].
-Intergovernmental Panel on Climate Change, 2013. Evaluation of Climate Models. [online] Intergovernmental Panel on    Climate Change. Available at: <https://www.ipcc.ch/report/ar5/wg1/evaluation-of-climate-models/> [Accessed 12 Feb. 2021].
-  Kamworapan, S. and Surussavadee, C., 2019. Evaluation of CMIP5 Global Climate Models for Simulating Climatological Temperature and Precipitation for Southeast Asia. [Research Article] Advances in Meteorology. Available at: <https://www.hindawi.com/journals/amete/2019/1067365/> [Accessed 12 Feb. 2021].
-  Roy, S., 2021. Canada is Warming at Only 1/2 the Rate of Climate Model Simulations. [online] Roy Spencer, Ph. D. Available at: <http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/> [Accessed 12 Feb. 2021].
+  Bush, E. and Lemmen, D.S., 2019. Canada’s Climate Change Report. [online] Available at: <https://www.deslibris.ca/ID/10100227> [Accessed 12 Feb. 2021].  
+Intergovernmental Panel on Climate Change, 2013. Evaluation of Climate Models. [online] Intergovernmental Panel on    Climate Change. Available at: <https://www.ipcc.ch/report/ar5/wg1/evaluation-of-climate-models/> [Accessed 12 Feb. 2021].  
+  Kamworapan, S. and Surussavadee, C., 2019. Evaluation of CMIP5 Global Climate Models for Simulating Climatological Temperature and Precipitation for Southeast Asia. [Research Article] Advances in Meteorology. Available at: <https://www.hindawi.com/journals/amete/2019/1067365/> [Accessed 12 Feb. 2021].  
+  Roy, S., 2021. Canada is Warming at Only 1/2 the Rate of Climate Model Simulations. [online] Roy Spencer, Ph. D. Available at: <http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/> [Accessed 12 Feb. 2021].  
 
 
 ## Sample Code
