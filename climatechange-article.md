@@ -10,12 +10,6 @@ nav_order: 1
 **Instructor**: Jay Brodeur   
 **Date**: February 14, 2021   
 
-<!-- Bolded text -->
-**This text will be bold**
-
-<!--Italicized text-->
-*This text will be italic*
-
 ## **Top 5 List of Articles**
 <!--Nested list with links-->
 <ol>
@@ -74,6 +68,13 @@ Intergovernmental Panel on Climate Change, 2013. Evaluation of Climate Models. [
 
 
 ## Sample Code
+
+<!-- Bolded text -->
+**This text will be bold**
+
+<!--Italicized text-->
+*This text will be italic*
+
 <!---Ordered list-->
 1. Item 1
 1. Item 2
