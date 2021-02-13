@@ -5,12 +5,11 @@ nav_order: 1
 ---
   
 # Climate claims Part 2
-Name: Keshikaa Suthaaharan  
-Course: ISCI 3A12  
-Instructor: Jay Brodeur   
-Date: February 14, 2021   
+**Name**: Keshikaa Suthaaharan  
+**Course**: ISCI 3A12  
+**Instructor**: Jay Brodeur   
+**Date**: February 14, 2021   
 
-sdfsdfsdfdsf
 <!-- Bolded text -->
 **This text will be bold**
 
@@ -54,7 +53,10 @@ sdfsdfsdfdsf
 ## Evaluation of #1 Claim
 Text here
 
+![Image](http://www.drroyspencer.com/wp-content/uploads/FoS-Canada-temperature-blog-post-Fig01.jpg)
+
 ### References
+Roy, S., 2021. Canada is Warming at Only 1/2 the Rate of Climate Model Simulations. [online] Roy Spencer, Ph. D. Available at: <http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/> [Accessed 12 Feb. 2021].
 
 ## Sample Code
 <!---Ordered list-->
