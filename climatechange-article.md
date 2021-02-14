@@ -22,7 +22,7 @@ nav_order: 1
 3. [Autumn In United Kingdom, Ireland Has Not Warmed Since 1995 …Cooling Tendency](https://wattsupwiththat.com/2020/12/28/autumn-in-united-kingdom-ireland-has-not-warmed-since-1995-cooling-tendency/ "Title")
    * This article claims that a warmer Arctic does not cause cold snaps, and thus the polar vortex theory is not scientifically supported.
    * This made me question my current views because it used direct quotations from a Nature article in support of its argument.
-4. [Weakened evidence for mid-latitude impacts of Arctic warming](https://wattsupwiththat.com/2021/02/10/journal-nature-refutes-piks-fantasy-rich-science-that-a-warmer-arctic-causes-extreme-cold-snaps/ "Title")
+4. [Journal Nature Refutes PIK’s Fantasy-Rich Science That A Warmer Arctic Causes Extreme Cold Snaps](https://wattsupwiththat.com/2021/02/10/journal-nature-refutes-piks-fantasy-rich-science-that-a-warmer-arctic-causes-extreme-cold-snaps/ "Title")
    * This article claims that fall temperatures at stations across the United Kingdom and Ireland have decreased or stayed the same since 1995.
    * This made me question my current views because it directly contradicted well-known global trends of temperature increases from the start of the Industrial Revolution.
 5. [Could Recent U.S. Warming Trends be Largely Spurious?](https://wattsupwiththat.com/2021/01/30/could-recent-u-s-warming-trends-be-largely-spurious/ "Title")
@@ -38,10 +38,10 @@ Many of the articles also used a slippery slope argument. For example, Article 3
 I chose this article because it used methodology similar to scientific studies, and thus it is not immediately clear whether its claims are true or false. The author compared the observed temperatures to the temperatures predicted by climate models in Canada (Roy, 2021). From 1991-2020, the author took the average of 108 CMIP5 (Coupled Model Intercomparison Project, phase 5) model simulations, and compared this to CruTem5 temperature data over the same period. From the results, the author concluded that Canada has only been warming at +0.23ºC/decade, more than double the model average (Figure 1). In addition, he found that 93.5% of model simulations predicted warmer temperatures than the observed temperatures (Figure 1). This claim is interesting to evaluate because CMIP5 models are used in reports which inform climate change policies, including IPCC AR5 (Intergovernmental Panel on Climate Change, 2013).
 
 ![Image](http://www.drroyspencer.com/wp-content/uploads/FoS-Canada-temperature-blog-post-Fig01.jpg)
-```Figure 1: Caption here```
+```Figure 1:  Comparison of 108 CMPI5 Climate Model Simulations Average to CRUTem5 Observations in Canada  from 1991-2020.```
 
 ![Image](http://www.drroyspencer.com/wp-content/uploads/FoS-Canada-temperature-blog-post-Fig02.jpg)
-```Figure 2: Caption here```
+```Figure 2: Histogram of the Temperature Change per Decade in Various CMIP5 Model Simulations and in Observed Data```
 
 The author of this piece is Dr. Roy Spencer. With a Ph.D. in meteorology, and experience in climate-related research, he has credibility to discuss climate change. However, he introduces the article with the words “As part of my Jan. 19 presentation for Friends of Science about there being no climate emergency,” which reveals a subjective view about climate change. He also does not include evidence for his claims, making it difficult to verify them. For example, he supports his statement that anthropogenic warming can only be measured from the 1980s using facts that are “agreed upon by other climate modelers” but does not provide evidence for this (Roy, 2021). Overall, the presence of bias, coupled with the lack of external references, makes this article an unreliable information source.
 
@@ -68,7 +68,7 @@ Smith, S.J., van Aardenne, J., Klimont, Z., Andres, R.J., Volke, A. and Delgado 
 Taylor, K.E., Stouffer, R.J. and Meehl, G.A., 2012. An Overview of CMIP5 and the Experiment Design. Bulletin of the American Meteorological Society, 93(4), pp.485–498.  
 
 ## Sample Code
-
+<!--
 <!-- Bolded text -->
 **This text will be bold**
 
@@ -114,4 +114,5 @@ Article 3 | Content in the second column | Content in the third column
 
 insert image hosted in GitHub repository
 ![Image](https://github.com/keshikaa122/climateclaims/blob/main/images/Tree.jpg)
+-->
 -->
