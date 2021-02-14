@@ -8,7 +8,7 @@ nav_order: 1
 **Name**: Keshikaa Suthaaharan  
 **Course**: ISCI 3A12  
 **Instructor**: Jay Brodeur   
-**TA**: Allie
+**TA**: Allie Ellis  
 **Date**: February 14, 2021   
 
 ## **Top 5 List of Articles**
