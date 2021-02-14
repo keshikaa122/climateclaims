@@ -1,5 +1,5 @@
 ---
-title: <enter your title here>
+title: <Climate Claims Assignment Part 2>
 layout: default
 nav_order: 1
 ---
@@ -38,10 +38,10 @@ Many of the articles also used a slippery slope argument. For example, Article 3
 I chose this article because it used methodology similar to scientific studies, and thus it is not immediately clear whether its claims are true or false. The author compared the observed temperatures to the temperatures predicted by climate models in Canada (Roy, 2021). From 1991-2020, the author took the average of 108 CMIP5 (Coupled Model Intercomparison Project, phase 5) model simulations, and compared this to CruTem5 temperature data over the same period. From the results, the author concluded that Canada has only been warming at +0.23ºC/decade, more than double the model average (Figure 1). In addition, he found that 93.5% of model simulations predicted warmer temperatures than the observed temperatures (Figure 1). This claim is interesting to evaluate because CMIP5 models are used in reports which inform climate change policies, including IPCC AR5 (Intergovernmental Panel on Climate Change, 2013).
 
 ![Image](http://www.drroyspencer.com/wp-content/uploads/FoS-Canada-temperature-blog-post-Fig01.jpg)
-```Figure 1:  Comparison of 108 CMPI5 Climate Model Simulations Average to CRUTem5 Observations in Canada  from 1991-2020.```
+**Figure 1**:  Comparison of 108 CMPI5 Climate Model Simulations Average to CRUTem5 Observations in Canada  from 1991-2020.
 
-![Image](https://github.com/keshikaa122/climateclaims/blob/main/images/figure2_climate.jpg)
-```Figure 2: Histogram of the Temperature Change per Decade in Various CMIP5 Model Simulations and in Observed Data```
+![Image](https://github.com/keshikaa122/climateclaims/blob/main/images/figure2_climate.png)
+**Figure 2**: Histogram of the Temperature Change per Decade in Various CMIP5 Model Simulations and in Observed Data
 
 The author of this piece is Dr. Roy Spencer. With a Ph.D. in meteorology, and experience in climate-related research, he has credibility to discuss climate change. However, he introduces the article with the words “As part of my Jan. 19 presentation for Friends of Science about there being no climate emergency,” which reveals a subjective view about climate change. He also does not include evidence for his claims, making it difficult to verify them. For example, he supports his statement that anthropogenic warming can only be measured from the 1980s using facts that are “agreed upon by other climate modelers” but does not provide evidence for this (Roy, 2021). Overall, the presence of bias, coupled with the lack of external references, makes this article an unreliable information source.
 
