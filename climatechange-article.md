@@ -113,6 +113,6 @@ Article 3 | Content in the second column | Content in the third column
 ![Image](https://ehq-production-canada.imgix.net/projects/images/efd49858f243b8705a73022a549e1dee11c991e3/000/005/814/original/Tree_generic_graphic.jpg?auto=compress%2Cformat&w=1080)
 
 insert image hosted in GitHub repository
-![Image](https://github.com/keshikaa122/climateclaims/blob/main/images/Tree.jpg)
+![Image](https://github.com/keshikaa122/climateclaims/blob/main/images/figure2_climate.png)
 -->
 -->
