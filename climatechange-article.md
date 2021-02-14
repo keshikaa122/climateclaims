@@ -13,37 +13,21 @@ nav_order: 1
 
 ## **Top 5 List of Articles**
 <!--Nested list with links-->
-<ol>
-  <li><a href = "http://www.drroyspencer.com/">Canada is Warming at Only 1/2 the Rate of Climate Model Simulations</a></li>
-    <ul>
-      <li></li>
-      <li></li>
-    </ul>
-  <li><a href = "http://www.co2science.org/articles/V24/feb/a5.php">The Combined Impacts of Ocean Acidification and Warming on <i>Symbiochlorum hainanensis</i></a></li>
-    <ul>
-      <li></li>
-      <li></li>
-    </ul>
-  </li>            
-  <li><a href = "https://wattsupwiththat.com/2020/12/28/autumn-in-united-kingdom-ireland-has-not-warmed-since-1995-cooling-tendency/">Autumn In United Kingdom, Ireland Has Not Warmed Since 1995 …Cooling Tendency</a></li>
-    <ul>
-      <li></li>
-      <li></li>
-    </ul>
-  </li>           
-  <li><a href = "https://wattsupwiththat.com/2021/02/10/journal-nature-refutes-piks-fantasy-rich-science-that-a-warmer-arctic-causes-extreme-cold-snaps/">Weakened evidence for mid-latitude impacts of Arctic warming</a></li>
-    <ul>
-      <li></li>
-      <li></li>
-    </ul>
-  </li>           
-  <li><a href = "https://wattsupwiththat.com/2021/01/30/could-recent-u-s-warming-trends-be-largely-spurious/">Could Recent U.S. Warming Trends be Largely Spurious?</a></li>
-    <ul>
-      <li></li>
-      <li></li>
-    </ul>
-  </li>           
-</ol>
+1. [Canada is Warming at Only 1/2 the Rate of Climate Model Simulations](http://www.drroyspencer.com/ "Title")
+   * Mixed
+   * Mixed
+2. [The Combined Impacts of Ocean Acidification and Warming on *Symbiochlorum hainanensis*](http://www.co2science.org/articles/V24/feb/a5.php "Title")
+   * Mixed
+   * Mixed
+3. [Autumn In United Kingdom, Ireland Has Not Warmed Since 1995 …Cooling Tendency](https://wattsupwiththat.com/2020/12/28/autumn-in-united-kingdom-ireland-has-not-warmed-since-1995-cooling-tendency/ "Title")
+   * Mixed
+   * Mixed  
+4. [Weakened evidence for mid-latitude impacts of Arctic warming](https://wattsupwiththat.com/2021/02/10/journal-nature-refutes-piks-fantasy-rich-science-that-a-warmer-arctic-causes-extreme-cold-snaps/ "Title")
+   * Mixed
+   * Mixed
+5. [Could Recent U.S. Warming Trends be Largely Spurious?](https://wattsupwiththat.com/2021/01/30/could-recent-u-s-warming-trends-be-largely-spurious/ "Title")
+   * Mixed
+   * Mixed  
 
 ## Common Themes
 Common themes observed within these papers was that they used part of a reputable external source, such as a journal article or government-released report to substantiate their claims. More than this, they usually hand-pick figures or text that support their position, while disregarding other scientific articles in opposition. In addition, many of the articles used a slippery slope argument. For example, Article 2 correctly described data suggesting that there may not be as large a correlation between Arctic ice melting and mid-latitudes, but further went on to say that this disproves the polar vortex theory altogether. Another common approach is to begin with direct insults towards climate scientists who are contradicting the author, without proving why they are wrong in the first place.
