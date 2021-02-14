@@ -7,7 +7,7 @@ nav_order: 1
 # Climate Claims Assignment Part 2
 **Name**: Keshikaa Suthaaharan  
 **Course**: ISCI 3A12  
-**Instructor**: Jay Brodeur   
+**Instructor**: Dr. Jay Brodeur   
 **TA**: Allie Ellis  
 **Date**: February 14, 2021   
 
@@ -40,7 +40,7 @@ I chose this article because it used methodology similar to scientific studies, 
 ![Image](http://www.drroyspencer.com/wp-content/uploads/FoS-Canada-temperature-blog-post-Fig01.jpg)
 ```Figure 1:  Comparison of 108 CMPI5 Climate Model Simulations Average to CRUTem5 Observations in Canada  from 1991-2020.```
 
-![Image](http://www.drroyspencer.com/wp-content/uploads/FoS-Canada-temperature-blog-post-Fig02.jpg)
+![Image](https://github.com/keshikaa122/climateclaims/blob/main/images/figure2_climate.jpg)
 ```Figure 2: Histogram of the Temperature Change per Decade in Various CMIP5 Model Simulations and in Observed Data```
 
 The author of this piece is Dr. Roy Spencer. With a Ph.D. in meteorology, and experience in climate-related research, he has credibility to discuss climate change. However, he introduces the article with the words “As part of my Jan. 19 presentation for Friends of Science about there being no climate emergency,” which reveals a subjective view about climate change. He also does not include evidence for his claims, making it difficult to verify them. For example, he supports his statement that anthropogenic warming can only be measured from the 1980s using facts that are “agreed upon by other climate modelers” but does not provide evidence for this (Roy, 2021). Overall, the presence of bias, coupled with the lack of external references, makes this article an unreliable information source.
