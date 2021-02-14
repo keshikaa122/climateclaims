@@ -67,6 +67,10 @@ Sheffield, J., Barrett, A.P., Colle, B., Fernando, D.N., Fu, R., Geil, K.L., Hu,
 Smith, S.J., van Aardenne, J., Klimont, Z., Andres, R.J., Volke, A. and Delgado Arias, S., 2011. Anthropogenic sulfur dioxide emissions: 1850–2005. Atmospheric Chemistry and Physics, 11(3), pp.1101–1116.  
 Taylor, K.E., Stouffer, R.J. and Meehl, G.A., 2012. An Overview of CMIP5 and the Experiment Design. Bulletin of the American Meteorological Society, 93(4), pp.485–498.  
 
+### Image References
+Spencer, 2021a. Yearly temperature departures 1991-2020 from the 1981-2010 mean in Canada in observations versus the average of 108 CMIP5 climate model simulations. [image online] Available at: <http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/> [Accessed 19 June 2009].  
+Spencer, 2021b. Ranked Canada surface temperature trends (1991-2020) for the 108 model simulations and the observations. [image online] Available at: <http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/> [Accessed 19 June 2009].
+
 ## Sample Code
 <!--
 <!-- Bolded text -->
