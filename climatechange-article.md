@@ -13,7 +13,7 @@ nav_order: 1
 
 ## **Top 5 List of Articles**
 <!--Nested list with links-->
-1. [Canada is Warming at Only 1/2 the Rate of Climate Model Simulations](http://www.drroyspencer.com/ "Title")
+1. [Canada is Warming at Only 1/2 the Rate of Climate Model Simulations](http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/ "Title")
    * Mixed
    * Mixed
 2. [The Combined Impacts of Ocean Acidification and Warming on *Symbiochlorum hainanensis*](http://www.co2science.org/articles/V24/feb/a5.php "Title")
@@ -32,7 +32,7 @@ nav_order: 1
 ## Common Themes
 Common themes observed within these papers was that they used part of a reputable external source, such as a journal article or government-released report to substantiate their claims. More than this, they usually hand-pick figures or text that support their position, while disregarding other scientific articles in opposition. In addition, many of the articles used a slippery slope argument. For example, Article 2 correctly described data suggesting that there may not be as large a correlation between Arctic ice melting and mid-latitudes, but further went on to say that this disproves the polar vortex theory altogether. Another common approach is to begin with direct insults towards climate scientists who are contradicting the author, without proving why they are wrong in the first place.
 
-## Evaluation of #1 Claim
+## Evaluation of *[“Canada is Warming at Only 1/2 the Rate of Climate Model Simulations”](http://www.drroyspencer.com/)*
 I have chosen to evaluate the article titled “Canada is Warming at Only 1/2 the Rate of Climate Model Simulations (Roy, 2021). This article begins by describing that it wanted to compare the warming observed in Canada to the warming predicted by climate models. From the 30-year period of 1991-2020, the author took the average of 108 model simulations (calibrated to the geographical region of Canada), and compared this to the observed temperatures over the same period. From the results (see Figure 1), the author concluded that Canada has only been warming at +0.23ºC/decade, as compared to the model average of +0.49ºC. In addition, he found that 93.5% of model simulations predicted warmer temperatures than the observed temperatures. Finally, stating that since CO2 was not heavily released until the 1970s and anthropogenic SO2 offset carbon emissions in the mid-20th century, the author suggested that only measuring temperature trends from the 1980s would provide a satisfactory measure of anthropogenic warming. This conclusion is interesting to evaluate because CMIP5 models are relied upon heavily for future temperature prediction, and are often used to develop policies.
 
 ![Image](http://www.drroyspencer.com/wp-content/uploads/FoS-Canada-temperature-blog-post-Fig01.jpg)
