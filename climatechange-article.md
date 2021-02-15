@@ -15,7 +15,7 @@ nav_order: 1
 <!--Nested list with links-->
 1. [Canada is Warming at Only 1/2 the Rate of Climate Model Simulations](http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/ "Title")
    * This article claims that Canada is in fact only warming at half the rate of the average of 108 climate model simulations.
-   * This made me question my current views because it creates uncertainty around the accuracy of CMIP5 models, and suggests that either global warming may not be occurring to as large an extent, or the CMIP5 models are not accurate.
+   * This made me question my current views because it creates uncertainty around the accuracy of CMIP5 models, and suggests that either global warming is not occurring as much as believed, or the CMIP5 models are not accurate.
 2. [Could Recent U.S. Warming Trends be Largely Spurious?](https://wattsupwiththat.com/2021/01/30/could-recent-u-s-warming-trends-be-largely-spurious/)
    * This article claims that observed warming trends are much less than warming trends indicate, as the urban heat island effect, or the spurious warming from urban areas, influences temperature measurements at thermometer sites.
    * This made me question my current views because it analyzed data to come to conclusions, and further supported their claims with information about the urban heat island effect which I do not know much about.
@@ -69,53 +69,3 @@ Taylor, K.E., Stouffer, R.J. and Meehl, G.A., 2012. An Overview of CMIP5 and the
 ### Image References
 Spencer, 2021a. Yearly temperature departures 1991-2020 from the 1981-2010 mean in Canada in observations versus the average of 108 CMIP5 climate model simulations. [image online] Available at: <http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/> [Accessed 19 June 2009].  
 Spencer, 2021b. Ranked Canada surface temperature trends (1991-2020) for the 108 model simulations and the observations. [image online] Available at: <http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/> [Accessed 19 June 2009].
-
-## Sample Code
-<!--
-<!-- Bolded text -->
-**This text will be bold**
-
-<!--Italicized text-->
-*This text will be italic*
-
-<!---Ordered list-->
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-
-<!--  Bulleted/Ordered list -->
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-
-<!--Link to another website-->
-This site was built using [GitHub Pages](https://pages.github.com/).
-
-<!--Snippet of code -->
-```
-Code
-```
-
-<!--Table-->
-First Header | 1-sentence summary of claim | Third Header
------------- | ------------- | -------------
-Article 1 | Content from cell 2 | Content from cell 3
-Article 2 | Content in the second column | Content in the third column
-Article 3 | Content in the second column | Content in the third column
-
-
-
-<!--Emoji, guide available here: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion-->
-:grinning:
-
-<!--Image from web; remember to get image address NOT link address
-![Image](https://ehq-production-canada.imgix.net/projects/images/efd49858f243b8705a73022a549e1dee11c991e3/000/005/814/original/Tree_generic_graphic.jpg?auto=compress%2Cformat&w=1080)
-
-insert image hosted in GitHub repository
-![Image](https://github.com/keshikaa122/climateclaims/blob/main/images/figure2_climate.png)
--->
--->
