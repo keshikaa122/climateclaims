@@ -13,13 +13,13 @@ nav_order: 1
 
 ## **Top 5 List of Articles**
 <!--Nested list with links-->
-1. [Canada is Warming at Only 1/2 the Rate of Climate Model Simulations](http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/ "Title")
+1. [Canada is Warming at Only 1/2 the Rate of Climate Model Simulations](http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/)
    * This article claims that Canada is in fact only warming at half the rate of the average of 108 climate model simulations.
    * This made me question my current views because it creates uncertainty around the accuracy of CMIP5 models, and suggests that either global warming is not occurring as much as believed, or the CMIP5 models are not accurate.
 2. [Could Recent U.S. Warming Trends be Largely Spurious?](https://wattsupwiththat.com/2021/01/30/could-recent-u-s-warming-trends-be-largely-spurious/)
    * This article claims that observed warming trends are much less than warming trends indicate, as the urban heat island effect, or the spurious warming from urban areas, influences temperature measurements at thermometer sites.
    * This made me question my current views because it analyzed data to come to conclusions, and further supported their claims with information about the urban heat island effect which I do not know much about.
-3. [Journal Nature Refutes PIK’s Fantasy-Rich Science That A Warmer Arctic Causes Extreme Cold Snaps](https://wattsupwiththat.com/2021/02/10/journal-nature-refutes-piks-fantasy-rich-science-that-a-warmer-arctic-causes-extreme-cold-snaps/ "Title")
+3. [Journal Nature Refutes PIK’s Fantasy-Rich Science That A Warmer Arctic Causes Extreme Cold Snaps](https://wattsupwiththat.com/2021/02/10/journal-nature-refutes-piks-fantasy-rich-science-that-a-warmer-arctic-causes-extreme-cold-snaps/)
    * This article claims that a warmer Arctic is not the cause of the cold winters observed in mid-latitude regions, and thus the polar vortex theory is not scientifically supported.
    * This made me question my current views because it used direct quotations from a Nature article and reputable climate scientists in support of its argument, and further disputed the polar vortex theory, which I am not knowledgeable enough about to evaluate the reasoning.
 4. [Autumn In United Kingdom, Ireland Has Not Warmed Since 1995 …Cooling Tendency](https://wattsupwiththat.com/2020/12/28/autumn-in-united-kingdom-ireland-has-not-warmed-since-1995-cooling-tendency/)
