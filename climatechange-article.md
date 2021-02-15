@@ -15,19 +15,19 @@ nav_order: 1
 <!--Nested list with links-->
 1. [Canada is Warming at Only 1/2 the Rate of Climate Model Simulations](http://www.drroyspencer.com/2021/01/canada-is-warming-at-only-1-2-the-rate-of-climate-model-simulations/ "Title")
    * This article claims that Canada is in fact only warming at half the rate of climate model simulations.
-   * This seemed to create uncertainty around the accuracy of CMIP5 models, which is concerning as global warming may not be occurring to as large an extent, and the model itself may not be accurate.
-2. [The Combined Impacts of Ocean Acidification and Warming on *Symbiochlorum hainanensis*](http://www.co2science.org/articles/V24/feb/a5.php "Title")
+   * This made me question my current views because it creates uncertainty around the accuracy of CMIP5 models, and suggests that either the global warming may not be occurring to as large an extent, or the CMIP5 models are not accurate.
+2. [Could Recent U.S. Warming Trends be Largely Spurious?](https://wattsupwiththat.com/2021/01/30/could-recent-u-s-warming-trends-be-largely-spurious/)
    * This article claims that observed warming trends are much less than typically shown due to the urban island effect.
    * This made me question my current views because it analyzed data to come to conclusions, and further supported their claims with knowledge about the urban heat island effect which I do not know much about.
-3. [Autumn In United Kingdom, Ireland Has Not Warmed Since 1995 …Cooling Tendency](https://wattsupwiththat.com/2020/12/28/autumn-in-united-kingdom-ireland-has-not-warmed-since-1995-cooling-tendency/ "Title")
+3. [Journal Nature Refutes PIK’s Fantasy-Rich Science That A Warmer Arctic Causes Extreme Cold Snaps](https://wattsupwiththat.com/2021/02/10/journal-nature-refutes-piks-fantasy-rich-science-that-a-warmer-arctic-causes-extreme-cold-snaps/ "Title")
    * This article claims that a warmer Arctic does not cause cold snaps, and thus the polar vortex theory is not scientifically supported.
    * This made me question my current views because it used direct quotations from a Nature article in support of its argument.
-4. [Journal Nature Refutes PIK’s Fantasy-Rich Science That A Warmer Arctic Causes Extreme Cold Snaps](https://wattsupwiththat.com/2021/02/10/journal-nature-refutes-piks-fantasy-rich-science-that-a-warmer-arctic-causes-extreme-cold-snaps/ "Title")
+4. [Autumn In United Kingdom, Ireland Has Not Warmed Since 1995 …Cooling Tendency](https://wattsupwiththat.com/2020/12/28/autumn-in-united-kingdom-ireland-has-not-warmed-since-1995-cooling-tendency/)
    * This article claims that fall temperatures at stations across the United Kingdom and Ireland have decreased or stayed the same since 1995.
    * This made me question my current views because it directly contradicted well-known global trends of temperature increases from the start of the Industrial Revolution.
-5. [Could Recent U.S. Warming Trends be Largely Spurious?](https://wattsupwiththat.com/2021/01/30/could-recent-u-s-warming-trends-be-largely-spurious/ "Title")
-   * This article claims that climate change is not having an effect on coral reefs through explaining that an increase in CO2 will benefit a certain species of coral.
-   * This made me question my current views because it is generally a well stated fact that coral reefs are being destroyed by climate change, and this data seemed to be saying the opposite.  
+5. [The Combined Impacts of Ocean Acidification and Warming on Symbiochlorum hainanensis](http://www.co2science.org/articles/V24/feb/a5.php)
+   * This article claims that climate change is not having an effect on coral reefs through explaining that an increase in carbon dioxide will benefit a certain species of coral.
+   * This made me question my current views because it is generally a well stated fact that coral reefs are being destroyed by climate change, and this data seemed to be saying the opposite.
 
 ## Common Themes
 In multiple articles, a common theme was that the authors referenced a reputable external source, such as a journal article or government-released report, to substantiate their claims. More than this, they chose specific figures or text that support their position, while disregarding other data that is in opposition. The use of complex terminology or inclusion of complex concepts was also a common theme; this appeals to people’s ignorance and makes the claim more convincing.
