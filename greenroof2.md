@@ -1,4 +1,7 @@
 # Hamilton Green Roof Project: Executive Summary
+Group 8 - Zargham Ahmed, Samin Lu-Sullivan, Maia Moore, Keshikaa Suthaaharan  
+March 14, 2021  
+ISCI 3A12: Climate Change
 
 ## What Are Green Roofs? 
 Climate change is a pressing issue around the world, and cities have begun focusing on advocating for the use of green roofs to increase the amount of green space and to mitigate some of the effects of climate change within urban environments. A green roof is any layer of vegetation that is planted on flat or slightly slanted roofs, and is composed of layers as shown in Figure 1 (NPS, 2021; Green Infrastructure Ontario, 2020). There are three different types of green roofs: intensive, semi-intensive, and extensive. They differ based on the depth of the substrate and the type of plants grown (Table 1) (Manso et al., 2021). When designing green roofs, the location of implementation, the type of green roof and the plants used must be considered to optimize the benefits. We have decided to propose the implementation of green roofs in Hamilton, ON, to promote the use of green roofs in smaller urban centers within Canada.
