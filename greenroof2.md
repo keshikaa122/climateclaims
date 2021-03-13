@@ -12,13 +12,9 @@ Climate change is a pressing issue around the world, and cities have begun focus
 <br>
 <br>
 *__Table 1:__ Soil depths and types of plants that can be grown on different types of green roofs (Shafique, Kim and Rafiq, 2018; Manso et al., 2021).*
-
-Type of Green Roof | Soil Depth| Compatible Plants
------------- | -------------| ------------ |
-Intensive | >15 cm | Crops, trees, and shrubs
-Semi-Intensive | 12-25 cm | Herbs, small crops, and shrubs
-Extensive | 0-5 cm | Mosses, grasses, wildflowers, and <br> plants of *Sedum* genus | 
-
+<p  align="center">
+  <img img width="555px" height="175px" src="https://github.com/keshikaa122/climateclaims/blob/main/images/GreenRoof_Table.png">
+</p>
 
 ## Summary of the Impacts of Green Roofs
 Green roofs have multiple positive effects on urban environments. They can act as an alternate source of income through the implementation of urban agriculture and can save money through reduction of heating and cooling costs (Manso et al., 2021; Mui, 2011). Green roofs contribute to the reduction of the UHI effect, absorb CO2 and pollutants, and promote more natural hydraulic processes within urban environments (Suszanowicz and Kolasa Więcek, 2019; Mui, 2011; Manso et al., 2021; Li and Babcock, 2014; Peng and Jim, 2015; Palla, Gnecco and Lanza, 2010; Bianchini and Hewage, 2012). Furthermore, the presence of green roofs provides habitats and refuge for pollinators and bird species within dense urban environments (Brenneisen, 2006; Mayrand and Clergeau, 2018; Kratschmer, Kriechbaum and Pachinger, 2018). Additionally, the development of additional green space in urban areas improves psychological well-being and provides educational opportunities for residents (The Calhoun School, 2021; Loder, 2014). In summary, green roofs can provide numerous economic, environmental, ecological and social benefits to Hamilton citizens.
